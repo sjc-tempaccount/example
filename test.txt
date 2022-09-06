@@ -3,3 +3,5 @@ Some stuff
 some more stuff
 
 extra stuff
+
+Adding a new line to the file
